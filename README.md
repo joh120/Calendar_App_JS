@@ -22,5 +22,5 @@ function deleteEvent() filter our the events not clicked and push it back to loc
 ensure that we make the value into a json string with JSON.stringify.
 
 function initButtons () determines what event will happen when we click on the next and back buttons on the top of our calender as well as
-all our other buttons on the calendar. InitButtons () also stipulates what function should be executed upon each of the button when clicked. 
+all our other buttons on the calendar. InitButtons () also stipulates what function should be executed upon each of the buttons whenever clicked. 
 
